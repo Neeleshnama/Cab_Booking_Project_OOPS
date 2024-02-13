@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opencsv-5.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
